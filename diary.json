@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2026-04-28",
+    "temperature": 99.0,
+    "description": "горим",
+    "precipitation": true
+  },
+  {
+    "date": "2020-12-12",
+    "temperature": 12.0,
+    "description": "12",
+    "precipitation": true
+  }
+]
